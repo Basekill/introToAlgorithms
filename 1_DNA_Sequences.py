@@ -1,6 +1,4 @@
 
-
-
 def longest_subsequence_length(string1,string2):
     sub1 = []
     for i in range(len(string1)):
